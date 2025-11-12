@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Event>
+    <Id>89508824-b1a2-4396-80b4-a20f922c70b5</Id>
+    <Title>Community Clean-Up</Title>
+    <Category>Sanitation</Category>
+    <Description>Join neighbours to clean up the park.</Description>
+    <Date>2025-10-31T00:00:00+02:00</Date>
+    <Priority>2</Priority>
+    <Tags>
+      <string>community</string>
+      <string>cleanup</string>
+    </Tags>
+  </Event>
+  <Event>
+    <Id>952d4576-4aef-423f-ae7d-2f6be0513fd5</Id>
+    <Title>Road Safety Workshop</Title>
+    <Category>Roads</Category>
+    <Description>Workshop about road safety.</Description>
+    <Date>2025-11-04T00:00:00+02:00</Date>
+    <Priority>1</Priority>
+    <Tags>
+      <string>safety</string>
+      <string>roads</string>
+    </Tags>
+  </Event>
+  <Event>
+    <Id>e808b1f4-c427-4552-a3eb-63e96fda1d32</Id>
+    <Title>Electricity Maintenance Notice</Title>
+    <Category>Utilities</Category>
+    <Description>Scheduled maintenance for suburb.</Description>
+    <Date>2025-10-30T00:00:00+02:00</Date>
+    <Priority>3</Priority>
+    <Tags>
+      <string>electricity</string>
+      <string>maintenance</string>
+    </Tags>
+  </Event>
+  <Event>
+    <Id>9e6ce89f-72ed-421a-ae5f-a4737e05858a</Id>
+    <Title>Tree Planting Day</Title>
+    <Category>Parks &amp; Recreation</Category>
+    <Description>Plant trees in the community park.</Description>
+    <Date>2025-11-11T00:00:00+02:00</Date>
+    <Priority>2</Priority>
+    <Tags>
+      <string>trees</string>
+      <string>environment</string>
+    </Tags>
+  </Event>
+  <Event>
+    <Id>3b7b5883-5a25-42cf-a379-588536b80422</Id>
+    <Title>Market Day</Title>
+    <Category>Community</Category>
+    <Description>Local artisans market.</Description>
+    <Date>2025-11-02T00:00:00+02:00</Date>
+    <Priority>4</Priority>
+    <Tags>
+      <string>market</string>
+      <string>community</string>
+    </Tags>
+  </Event>
+</ArrayOfEvent>

@@ -1,0 +1,390 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\source\\repos\\FinalMunicipalApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDEA2E78-CA25-4B6C-941A-7E9CDF4E2BC7}|FinalMunicipalApp\\FinalMunicipalApp.csproj|c:\\users\\lab_services_student\\source\\repos\\finalmunicipalapp\\finalmunicipalapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDEA2E78-CA25-4B6C-941A-7E9CDF4E2BC7}|FinalMunicipalApp\\FinalMunicipalApp.csproj|solutionrelative:finalmunicipalapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDEA2E78-CA25-4B6C-941A-7E9CDF4E2BC7}|FinalMunicipalApp\\FinalMunicipalApp.csproj|c:\\users\\lab_services_student\\source\\repos\\finalmunicipalapp\\finalmunicipalapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DDEA2E78-CA25-4B6C-941A-7E9CDF4E2BC7}|FinalMunicipalApp\\FinalMunicipalApp.csproj|solutionrelative:finalmunicipalapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDEA2E78-CA25-4B6C-941A-7E9CDF4E2BC7}|FinalMunicipalApp\\FinalMunicipalApp.csproj|c:\\users\\lab_services_student\\source\\repos\\finalmunicipalapp\\finalmunicipalapp\\reportissueswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDEA2E78-CA25-4B6C-941A-7E9CDF4E2BC7}|FinalMunicipalApp\\FinalMunicipalApp.csproj|solutionrelative:finalmunicipalapp\\reportissueswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDEA2E78-CA25-4B6C-941A-7E9CDF4E2BC7}|FinalMunicipalApp\\FinalMunicipalApp.csproj|c:\\users\\lab_services_student\\source\\repos\\finalmunicipalapp\\finalmunicipalapp\\servicerequeststatuswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDEA2E78-CA25-4B6C-941A-7E9CDF4E2BC7}|FinalMunicipalApp\\FinalMunicipalApp.csproj|solutionrelative:finalmunicipalapp\\servicerequeststatuswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDEA2E78-CA25-4B6C-941A-7E9CDF4E2BC7}|FinalMunicipalApp\\FinalMunicipalApp.csproj|c:\\users\\lab_services_student\\source\\repos\\finalmunicipalapp\\finalmunicipalapp\\servicerequeststatuswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DDEA2E78-CA25-4B6C-941A-7E9CDF4E2BC7}|FinalMunicipalApp\\FinalMunicipalApp.csproj|solutionrelative:finalmunicipalapp\\servicerequeststatuswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDEA2E78-CA25-4B6C-941A-7E9CDF4E2BC7}|FinalMunicipalApp\\FinalMunicipalApp.csproj|c:\\users\\lab_services_student\\source\\repos\\finalmunicipalapp\\finalmunicipalapp\\reportissueswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DDEA2E78-CA25-4B6C-941A-7E9CDF4E2BC7}|FinalMunicipalApp\\FinalMunicipalApp.csproj|solutionrelative:finalmunicipalapp\\reportissueswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDEA2E78-CA25-4B6C-941A-7E9CDF4E2BC7}|FinalMunicipalApp\\FinalMunicipalApp.csproj|c:\\users\\lab_services_student\\source\\repos\\finalmunicipalapp\\finalmunicipalapp\\models\\servicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDEA2E78-CA25-4B6C-941A-7E9CDF4E2BC7}|FinalMunicipalApp\\FinalMunicipalApp.csproj|solutionrelative:finalmunicipalapp\\models\\servicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDEA2E78-CA25-4B6C-941A-7E9CDF4E2BC7}|FinalMunicipalApp\\FinalMunicipalApp.csproj|c:\\users\\lab_services_student\\source\\repos\\finalmunicipalapp\\finalmunicipalapp\\datastructures\\minheap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDEA2E78-CA25-4B6C-941A-7E9CDF4E2BC7}|FinalMunicipalApp\\FinalMunicipalApp.csproj|solutionrelative:finalmunicipalapp\\datastructures\\minheap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDEA2E78-CA25-4B6C-941A-7E9CDF4E2BC7}|FinalMunicipalApp\\FinalMunicipalApp.csproj|c:\\users\\lab_services_student\\source\\repos\\finalmunicipalapp\\finalmunicipalapp\\datastructures\\graph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDEA2E78-CA25-4B6C-941A-7E9CDF4E2BC7}|FinalMunicipalApp\\FinalMunicipalApp.csproj|solutionrelative:finalmunicipalapp\\datastructures\\graph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDEA2E78-CA25-4B6C-941A-7E9CDF4E2BC7}|FinalMunicipalApp\\FinalMunicipalApp.csproj|c:\\users\\lab_services_student\\source\\repos\\finalmunicipalapp\\finalmunicipalapp\\datastructures\\binarysearchtree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDEA2E78-CA25-4B6C-941A-7E9CDF4E2BC7}|FinalMunicipalApp\\FinalMunicipalApp.csproj|solutionrelative:finalmunicipalapp\\datastructures\\binarysearchtree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDEA2E78-CA25-4B6C-941A-7E9CDF4E2BC7}|FinalMunicipalApp\\FinalMunicipalApp.csproj|c:\\users\\lab_services_student\\source\\repos\\finalmunicipalapp\\finalmunicipalapp\\datastructures\\avltree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDEA2E78-CA25-4B6C-941A-7E9CDF4E2BC7}|FinalMunicipalApp\\FinalMunicipalApp.csproj|solutionrelative:finalmunicipalapp\\datastructures\\avltree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDEA2E78-CA25-4B6C-941A-7E9CDF4E2BC7}|FinalMunicipalApp\\FinalMunicipalApp.csproj|c:\\users\\lab_services_student\\source\\repos\\finalmunicipalapp\\finalmunicipalapp\\finalmunicipalapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DDEA2E78-CA25-4B6C-941A-7E9CDF4E2BC7}|FinalMunicipalApp\\FinalMunicipalApp.csproj|solutionrelative:finalmunicipalapp\\finalmunicipalapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDEA2E78-CA25-4B6C-941A-7E9CDF4E2BC7}|FinalMunicipalApp\\FinalMunicipalApp.csproj|c:\\users\\lab_services_student\\source\\repos\\finalmunicipalapp\\finalmunicipalapp\\views\\addeventdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DDEA2E78-CA25-4B6C-941A-7E9CDF4E2BC7}|FinalMunicipalApp\\FinalMunicipalApp.csproj|solutionrelative:finalmunicipalapp\\views\\addeventdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDEA2E78-CA25-4B6C-941A-7E9CDF4E2BC7}|FinalMunicipalApp\\FinalMunicipalApp.csproj|c:\\users\\lab_services_student\\source\\repos\\finalmunicipalapp\\finalmunicipalapp\\views\\localeventswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DDEA2E78-CA25-4B6C-941A-7E9CDF4E2BC7}|FinalMunicipalApp\\FinalMunicipalApp.csproj|solutionrelative:finalmunicipalapp\\views\\localeventswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDEA2E78-CA25-4B6C-941A-7E9CDF4E2BC7}|FinalMunicipalApp\\FinalMunicipalApp.csproj|c:\\users\\lab_services_student\\source\\repos\\finalmunicipalapp\\finalmunicipalapp\\data\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDEA2E78-CA25-4B6C-941A-7E9CDF4E2BC7}|FinalMunicipalApp\\FinalMunicipalApp.csproj|solutionrelative:finalmunicipalapp\\data\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDEA2E78-CA25-4B6C-941A-7E9CDF4E2BC7}|FinalMunicipalApp\\FinalMunicipalApp.csproj|c:\\users\\lab_services_student\\source\\repos\\finalmunicipalapp\\finalmunicipalapp\\views\\localeventswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDEA2E78-CA25-4B6C-941A-7E9CDF4E2BC7}|FinalMunicipalApp\\FinalMunicipalApp.csproj|solutionrelative:finalmunicipalapp\\views\\localeventswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDEA2E78-CA25-4B6C-941A-7E9CDF4E2BC7}|FinalMunicipalApp\\FinalMunicipalApp.csproj|c:\\users\\lab_services_student\\source\\repos\\finalmunicipalapp\\finalmunicipalapp\\views\\addeventdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDEA2E78-CA25-4B6C-941A-7E9CDF4E2BC7}|FinalMunicipalApp\\FinalMunicipalApp.csproj|solutionrelative:finalmunicipalapp\\views\\addeventdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDEA2E78-CA25-4B6C-941A-7E9CDF4E2BC7}|FinalMunicipalApp\\FinalMunicipalApp.csproj|c:\\users\\lab_services_student\\source\\repos\\finalmunicipalapp\\finalmunicipalapp\\services\\recommendationengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDEA2E78-CA25-4B6C-941A-7E9CDF4E2BC7}|FinalMunicipalApp\\FinalMunicipalApp.csproj|solutionrelative:finalmunicipalapp\\services\\recommendationengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDEA2E78-CA25-4B6C-941A-7E9CDF4E2BC7}|FinalMunicipalApp\\FinalMunicipalApp.csproj|c:\\users\\lab_services_student\\source\\repos\\finalmunicipalapp\\finalmunicipalapp\\models\\issue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDEA2E78-CA25-4B6C-941A-7E9CDF4E2BC7}|FinalMunicipalApp\\FinalMunicipalApp.csproj|solutionrelative:finalmunicipalapp\\models\\issue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDEA2E78-CA25-4B6C-941A-7E9CDF4E2BC7}|FinalMunicipalApp\\FinalMunicipalApp.csproj|c:\\users\\lab_services_student\\source\\repos\\finalmunicipalapp\\finalmunicipalapp\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDEA2E78-CA25-4B6C-941A-7E9CDF4E2BC7}|FinalMunicipalApp\\FinalMunicipalApp.csproj|solutionrelative:finalmunicipalapp\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDEA2E78-CA25-4B6C-941A-7E9CDF4E2BC7}|FinalMunicipalApp\\FinalMunicipalApp.csproj|c:\\users\\lab_services_student\\source\\repos\\finalmunicipalapp\\finalmunicipalapp\\data\\issuerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDEA2E78-CA25-4B6C-941A-7E9CDF4E2BC7}|FinalMunicipalApp\\FinalMunicipalApp.csproj|solutionrelative:finalmunicipalapp\\data\\issuerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServiceRequestStatusWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\FinalMunicipalApp\\FinalMunicipalApp\\ServiceRequestStatusWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FinalMunicipalApp\\ServiceRequestStatusWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\FinalMunicipalApp\\FinalMunicipalApp\\ServiceRequestStatusWindow.xaml.cs",
+              "RelativeToolTip": "FinalMunicipalApp\\ServiceRequestStatusWindow.xaml.cs",
+              "ViewState": "AgIAADcAAAAAl5mZmZkcwAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T05:51:19.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServiceRequestStatusWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\FinalMunicipalApp\\FinalMunicipalApp\\ServiceRequestStatusWindow.xaml",
+              "RelativeDocumentMoniker": "FinalMunicipalApp\\ServiceRequestStatusWindow.xaml",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\FinalMunicipalApp\\FinalMunicipalApp\\ServiceRequestStatusWindow.xaml",
+              "RelativeToolTip": "FinalMunicipalApp\\ServiceRequestStatusWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-12T05:42:34.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\FinalMunicipalApp\\FinalMunicipalApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FinalMunicipalApp\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\FinalMunicipalApp\\FinalMunicipalApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "FinalMunicipalApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAB0AAACKZmZmZkY2wCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T06:40:32.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReportIssuesWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\FinalMunicipalApp\\FinalMunicipalApp\\ReportIssuesWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FinalMunicipalApp\\ReportIssuesWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\FinalMunicipalApp\\FinalMunicipalApp\\ReportIssuesWindow.xaml.cs",
+              "RelativeToolTip": "FinalMunicipalApp\\ReportIssuesWindow.xaml.cs",
+              "ViewState": "AgIAAAcAAAAAzszMzAwlwFUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T06:53:25.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReportIssuesWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\FinalMunicipalApp\\FinalMunicipalApp\\ReportIssuesWindow.xaml",
+              "RelativeDocumentMoniker": "FinalMunicipalApp\\ReportIssuesWindow.xaml",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\FinalMunicipalApp\\FinalMunicipalApp\\ReportIssuesWindow.xaml",
+              "RelativeToolTip": "FinalMunicipalApp\\ReportIssuesWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-28T06:47:26.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\FinalMunicipalApp\\FinalMunicipalApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "FinalMunicipalApp\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\FinalMunicipalApp\\FinalMunicipalApp\\MainWindow.xaml",
+              "RelativeToolTip": "FinalMunicipalApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-28T06:40:35.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Graph.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\FinalMunicipalApp\\FinalMunicipalApp\\DataStructures\\Graph.cs",
+              "RelativeDocumentMoniker": "FinalMunicipalApp\\DataStructures\\Graph.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\FinalMunicipalApp\\FinalMunicipalApp\\DataStructures\\Graph.cs",
+              "RelativeToolTip": "FinalMunicipalApp\\DataStructures\\Graph.cs",
+              "ViewState": "AgIAABwAAAAAOTMzMzMIwC0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T10:23:29.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AVLTree.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\FinalMunicipalApp\\FinalMunicipalApp\\DataStructures\\AVLTree.cs",
+              "RelativeDocumentMoniker": "FinalMunicipalApp\\DataStructures\\AVLTree.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\FinalMunicipalApp\\FinalMunicipalApp\\DataStructures\\AVLTree.cs",
+              "RelativeToolTip": "FinalMunicipalApp\\DataStructures\\AVLTree.cs",
+              "ViewState": "AgIAAGQAAAAAxMzMzMwOwHsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T10:20:35.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BinarySearchTree.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\FinalMunicipalApp\\FinalMunicipalApp\\DataStructures\\BinarySearchTree.cs",
+              "RelativeDocumentMoniker": "FinalMunicipalApp\\DataStructures\\BinarySearchTree.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\FinalMunicipalApp\\FinalMunicipalApp\\DataStructures\\BinarySearchTree.cs",
+              "RelativeToolTip": "FinalMunicipalApp\\DataStructures\\BinarySearchTree.cs",
+              "ViewState": "AgIAAC4AAAAAZWZmZmYRwCYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T10:19:15.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MinHeap.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\FinalMunicipalApp\\FinalMunicipalApp\\DataStructures\\MinHeap.cs",
+              "RelativeDocumentMoniker": "FinalMunicipalApp\\DataStructures\\MinHeap.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\FinalMunicipalApp\\FinalMunicipalApp\\DataStructures\\MinHeap.cs",
+              "RelativeToolTip": "FinalMunicipalApp\\DataStructures\\MinHeap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T10:22:27.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ServiceRequest.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\FinalMunicipalApp\\FinalMunicipalApp\\Models\\ServiceRequest.cs",
+              "RelativeDocumentMoniker": "FinalMunicipalApp\\Models\\ServiceRequest.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\FinalMunicipalApp\\FinalMunicipalApp\\Models\\ServiceRequest.cs",
+              "RelativeToolTip": "FinalMunicipalApp\\Models\\ServiceRequest.cs",
+              "ViewState": "AgIAABMAAAAAzczMzEwcwB4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T10:18:07.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FinalMunicipalApp.csproj",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\FinalMunicipalApp\\FinalMunicipalApp\\FinalMunicipalApp.csproj",
+              "RelativeDocumentMoniker": "FinalMunicipalApp\\FinalMunicipalApp.csproj",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\FinalMunicipalApp\\FinalMunicipalApp\\FinalMunicipalApp.csproj",
+              "RelativeToolTip": "FinalMunicipalApp\\FinalMunicipalApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-28T06:41:08.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AddEventDialog.xaml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\FinalMunicipalApp\\FinalMunicipalApp\\Views\\AddEventDialog.xaml",
+              "RelativeDocumentMoniker": "FinalMunicipalApp\\Views\\AddEventDialog.xaml",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\FinalMunicipalApp\\FinalMunicipalApp\\Views\\AddEventDialog.xaml",
+              "RelativeToolTip": "FinalMunicipalApp\\Views\\AddEventDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-28T06:46:22.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LocalEventsWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\FinalMunicipalApp\\FinalMunicipalApp\\Views\\LocalEventsWindow.xaml",
+              "RelativeDocumentMoniker": "FinalMunicipalApp\\Views\\LocalEventsWindow.xaml",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\FinalMunicipalApp\\FinalMunicipalApp\\Views\\LocalEventsWindow.xaml",
+              "RelativeToolTip": "FinalMunicipalApp\\Views\\LocalEventsWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-28T06:46:51.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LocalEventsWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\FinalMunicipalApp\\FinalMunicipalApp\\Views\\LocalEventsWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FinalMunicipalApp\\Views\\LocalEventsWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\FinalMunicipalApp\\FinalMunicipalApp\\Views\\LocalEventsWindow.xaml.cs",
+              "RelativeToolTip": "FinalMunicipalApp\\Views\\LocalEventsWindow.xaml.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAowFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T06:51:27.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EventRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\FinalMunicipalApp\\FinalMunicipalApp\\Data\\EventRepository.cs",
+              "RelativeDocumentMoniker": "FinalMunicipalApp\\Data\\EventRepository.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\FinalMunicipalApp\\FinalMunicipalApp\\Data\\EventRepository.cs",
+              "RelativeToolTip": "FinalMunicipalApp\\Data\\EventRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T06:42:55.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AddEventDialog.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\FinalMunicipalApp\\FinalMunicipalApp\\Views\\AddEventDialog.xaml.cs",
+              "RelativeDocumentMoniker": "FinalMunicipalApp\\Views\\AddEventDialog.xaml.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\FinalMunicipalApp\\FinalMunicipalApp\\Views\\AddEventDialog.xaml.cs",
+              "RelativeToolTip": "FinalMunicipalApp\\Views\\AddEventDialog.xaml.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T06:50:34.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RecommendationEngine.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\FinalMunicipalApp\\FinalMunicipalApp\\Services\\RecommendationEngine.cs",
+              "RelativeDocumentMoniker": "FinalMunicipalApp\\Services\\RecommendationEngine.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\FinalMunicipalApp\\FinalMunicipalApp\\Services\\RecommendationEngine.cs",
+              "RelativeToolTip": "FinalMunicipalApp\\Services\\RecommendationEngine.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAkwDYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T06:45:49.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Issue.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\FinalMunicipalApp\\FinalMunicipalApp\\Models\\Issue.cs",
+              "RelativeDocumentMoniker": "FinalMunicipalApp\\Models\\Issue.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\FinalMunicipalApp\\FinalMunicipalApp\\Models\\Issue.cs",
+              "RelativeToolTip": "FinalMunicipalApp\\Models\\Issue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T06:45:13.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\FinalMunicipalApp\\FinalMunicipalApp\\Models\\Event.cs",
+              "RelativeDocumentMoniker": "FinalMunicipalApp\\Models\\Event.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\FinalMunicipalApp\\FinalMunicipalApp\\Models\\Event.cs",
+              "RelativeToolTip": "FinalMunicipalApp\\Models\\Event.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T06:44:59.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IssueRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\FinalMunicipalApp\\FinalMunicipalApp\\Data\\IssueRepository.cs",
+              "RelativeDocumentMoniker": "FinalMunicipalApp\\Data\\IssueRepository.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\FinalMunicipalApp\\FinalMunicipalApp\\Data\\IssueRepository.cs",
+              "RelativeToolTip": "FinalMunicipalApp\\Data\\IssueRepository.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowDAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T06:44:38.961Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 211,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

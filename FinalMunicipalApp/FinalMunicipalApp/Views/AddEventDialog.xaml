@@ -1,0 +1,63 @@
+﻿<Window x:Class="FinalMunicipalApp.Views.AddEventDialog"
+                xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:sys="clr-namespace:System;assembly=mscorlib"
+        Title="Add Event"
+        Height="600" Width="500"
+        WindowStartupLocation="CenterOwner"
+        ResizeMode="CanResize"
+        Background="#F3F7FB">
+
+    <Border CornerRadius="12" Background="White" Padding="20" Margin="10" BorderBrush="#90CAF9" BorderThickness="1">
+        <DockPanel LastChildFill="True">
+
+            <!-- Buttons at bottom -->
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" Margin="0,20,0,0" DockPanel.Dock="Bottom">
+                <Button Content="OK" Width="90" Height="32" Margin="4"
+                        Background="#1976D2" Foreground="White"
+                        FontWeight="SemiBold" BorderBrush="#1565C0"
+                        BorderThickness="1" Cursor="Hand" Click="Ok_Click"/>
+                <Button Content="Cancel" Width="90" Height="32" Margin="4"
+                        Background="#E3F2FD" Foreground="#1565C0"
+                        FontWeight="SemiBold" BorderBrush="#64B5F6"
+                        BorderThickness="1" Cursor="Hand" Click="Cancel_Click"/>
+            </StackPanel>
+
+            <!-- Scrollable content -->
+            <ScrollViewer VerticalScrollBarVisibility="Auto">
+                <StackPanel>
+
+                    <TextBlock Text="Add New Event"
+                               FontSize="20"
+                               FontWeight="Bold"
+                               Foreground="#1976D2"
+                               HorizontalAlignment="Center"
+                               Margin="0,0,0,20"/>
+
+                    <TextBlock Text="Title:" FontWeight="SemiBold" Foreground="#0D47A1" Margin="0,5,0,2"/>
+                    <TextBox x:Name="TxtTitle" Height="28" Padding="4"
+                             BorderBrush="#64B5F6" BorderThickness="1" Background="#E3F2FD"/>
+
+                    <TextBlock Text="Category:" FontWeight="SemiBold" Foreground="#0D47A1" Margin="0,10,0,2"/>
+                    <TextBox x:Name="TxtCategory" Height="28" Padding="4"
+                             BorderBrush="#64B5F6" BorderThickness="1" Background="#E3F2FD"/>
+
+                    <TextBlock Text="Date:" FontWeight="SemiBold" Foreground="#0D47A1" Margin="0,10,0,2"/>
+                    <DatePicker x:Name="DpDate"
+                                SelectedDate="{x:Static sys:DateTime.Today}"
+                                BorderBrush="#64B5F6" BorderThickness="1" Background="#E3F2FD"/>
+
+                    <TextBlock Text="Description:" FontWeight="SemiBold" Foreground="#0D47A1" Margin="0,10,0,2"/>
+                    <TextBox x:Name="TxtDescription" Height="100" AcceptsReturn="True" Padding="6"
+                             TextWrapping="Wrap"
+                             BorderBrush="#64B5F6" BorderThickness="1" Background="#E3F2FD"/>
+
+                    <TextBlock Text="Tags (comma separated):" FontWeight="SemiBold" Foreground="#0D47A1" Margin="0,10,0,2"/>
+                    <TextBox x:Name="TxtTags" Height="28" Padding="4"
+                             BorderBrush="#64B5F6" BorderThickness="1" Background="#E3F2FD"/>
+                </StackPanel>
+            </ScrollViewer>
+
+        </DockPanel>
+    </Border>
+</Window>

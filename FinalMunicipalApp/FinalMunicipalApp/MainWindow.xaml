@@ -1,0 +1,64 @@
+﻿<Window x:Class="FinalMunicipalApp.MainWindow"
+               xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Municipal Services - Main Menu"
+        Height="500" Width="700"
+        WindowStartupLocation="CenterScreen"
+        ResizeMode="CanResize"
+        Background="#F3F7FB">
+
+    <Grid>
+        <Border CornerRadius="12" Background="White" Padding="30" Margin="20,50,21,50"
+                BorderBrush="#90CAF9" BorderThickness="1">
+            <Border.Effect>
+                <DropShadowEffect Color="#40000000" BlurRadius="12" ShadowDepth="3" Opacity="0.6"/>
+            </Border.Effect>
+
+            <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center" Width="400">
+
+                <!-- Header -->
+                <TextBlock Text="Municipal Reporting App"
+                           FontSize="24" FontWeight="Bold"
+                           Foreground="#0D47A1"
+                           TextAlignment="Center"
+                           Margin="0,0,0,30"/>
+
+                <!-- Buttons -->
+                <Button x:Name="BtnReportIssues"
+                        Content="Report Issues"
+                        Height="55"
+                        Margin="0,8"
+                        Background="DarkBlue" Foreground="White"
+                        FontWeight="SemiBold"
+                        Cursor="Hand"
+                        Click="BtnReportIssues_Click"/>
+
+                <Button x:Name="BtnLocalEvents"
+                        Content="Local Events and Announcements"
+                        Height="55"
+                        Margin="0,8"
+                        Background="Blue" Foreground="White"
+                        FontWeight="SemiBold"
+                        Cursor="Hand"
+                        Click="BtnLocalEvents_Click"/>
+
+                <Button x:Name="BtnServiceRequest"
+                        Content="Service Request Status"
+                        Height="55"
+                        Margin="0,8"
+                        Background="DodgerBlue" Foreground="White"
+                        FontWeight="SemiBold"
+                        Cursor="Hand"
+                        Click="BtnServiceRequest_Click"/>
+                
+                <!-- Footer -->
+                <TextBlock Text="© 2025 Municipal Reporting System"
+                           FontSize="12"
+                           Foreground="Gray"
+                           Margin="0,30,0,0"
+                           TextAlignment="Center"/>
+
+            </StackPanel>
+        </Border>
+    </Grid>
+</Window>
